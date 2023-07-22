@@ -1,9 +1,9 @@
 # BruteWebX
 =================================
 # Command install
-git clone https://github.com/coderfenrir/BruteWebX
+$ git clone https://github.com/coderfenrir/BruteWebX
 
-cd BruteWebX
+$ cd BruteWebX
 
-python brutewebx.py
+$ python brutewebx.py
 
